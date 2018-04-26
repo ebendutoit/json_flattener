@@ -1,2 +1,9 @@
-# json_flattener
-A python utility that flattens nested JSON into database-palatable chunks
+# JSON flattener
+
+JSON flattener is a a python utility that flattens any nested JSON into palatable chunks, ready to be eaten by any relational database.
+
+## Usage
+
+JSON flattener is a python3 Jupyter Notebook:
+
+    json_flattener.ipynb
